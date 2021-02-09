@@ -1,5 +1,5 @@
 # Arduino 3.5-Digital Input
-## In this assignment you will learn to use digital sensors as input devices.  
+## In this assignment you will learn to use analog sensors as input devices.  
 
 ---
 
