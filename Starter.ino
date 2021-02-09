@@ -1,13 +1,15 @@
-int inPin = 7;    // pushbutton connected to digital pin 7
-int val = 0;      // variable to store the read value
+int inPin = :
+int val:
 
-void setup() {
-  Serial.begin ();
-  pinMode(inPin, );    // sets the digital pin 7 as input
+void setup()
+{
+    // set up your input pin
+    // initialize the serial monitor at 9600 baud
 }
 
-void loop() {
-  val = digitalRead(inPin);   // read the input pin
-  // print val as a binary number to the Serial Monitor using Serial.println()
-  // delay 500 ms
+void loop()
+{
+    // read your sensor pi A0 and store that in the val variable
+    // print that value as a hexidecimal number in the serial monitor
+    // delay the appropriate amount of time
 }
