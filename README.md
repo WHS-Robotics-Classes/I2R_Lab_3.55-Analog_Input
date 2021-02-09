@@ -25,4 +25,4 @@ Use the video below as a reference.
 
 [![3.55_Video](http://img.youtube.com/vi/Nc7hQMbBjHo/0.jpg)](https://www.youtube.com/watch?v=Nc7hQMbBjHo "3.55-Analog Input Video")
 
-Make sure your prototype behaves the same way as the one in the video. As in the previous assignment, make a new file here on GitHub. Name it 3.5_Digital_Input.ino and Commit it to the repository.
+Make sure your prototype behaves the same way as the one in the video. As in the previous assignment, make a new file here on GitHub. Name it 3.55_Analog_Input.ino and Commit it to the repository.
