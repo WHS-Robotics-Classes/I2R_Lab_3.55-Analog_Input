@@ -9,7 +9,7 @@ void setup()
 
 void loop()
 {
-    // read your sensor pi A0 and store that in the val variable
+    // read your sensor pin A0 and store that in the "val" variable
     // print that value as a hexidecimal number in the serial monitor
     // delay the appropriate amount of time
 }
