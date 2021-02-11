@@ -23,6 +23,6 @@ Use the video below as a reference.
 
 ### Step Three: Debug and Submit
 
-### Demonstration video will be posted here on Thursday by 9:00 am
+[![3.55_Video](http://img.youtube.com/vi/XcxvEK4XeTM/0.jpg)](https://www.youtube.com/watch?v=XcxvEK4XeTM "3.55-Analog Input Video")
 
 Make sure your prototype behaves the same way as the one in the video. As in the previous assignment, make a new file here on GitHub. Name it 3.55_Analog_Input.ino and Commit it to the repository.
