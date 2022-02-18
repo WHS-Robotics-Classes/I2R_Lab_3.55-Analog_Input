@@ -13,7 +13,7 @@ Build your circuit according to this schematic:
 
 Before you start, review the Arduino Reference page on [`analogRead()`](https://www.arduino.cc/reference/en/language/functions/analog-io/analogread/).  You should also review [`Serial.println()`](https://www.arduino.cc/reference/en/language/functions/communication/serial/println/) as you will need to know how to print something as a hexidecimal number.
 
-1. Copy any starter code provided for you (Starter.ino file) into the [Codebender IDE](https://edu.codebender.cc/class/1ajtp).
+1. Copy any starter code provided for you (Starter.ino file) into the Arduino Web Editor.
 2. Modify the code so your sketch does the following:
     - Print the value received by the input pin to the Serial monitor using `Serial.ptintln()` as a hexidecimal number.  (This will look very strange - see my example video below)
     - Delay 250 ms between each cycle.
